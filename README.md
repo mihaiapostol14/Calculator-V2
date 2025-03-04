@@ -4,7 +4,7 @@ This project is a basic calculator built using **HTML, CSS, and JavaScript**. It
 
 ## Features
 - **Basic Operations:** Addition, Subtraction, Multiplication, and Division.
-- **Advanced Operations:** Percentage (`%`), Square Root (`√`), Power (`a^x`), and Fraction (`¼`).
+- **Advanced Operations:** Percentage (%), Square Root (√), Power (a^x), and Fraction (¼).
 - **Clear and Delete Functions:** `C` clears all input, `CE` deletes the last character.
 - **Real-time Display Update:** Updates the display as users click buttons.
 
@@ -21,10 +21,19 @@ This project is a basic calculator built using **HTML, CSS, and JavaScript**. It
 ## How It Works
 The JavaScript script listens for button clicks and updates the calculator's input field accordingly. It uses `eval()` (with safety replacements) to perform calculations.
 
+## Recent Updates
+- Implemented real-time display updates for better user experience.
+- Added support for advanced arithmetic operations such as square root and power functions.
+- Enhanced UI with responsive design using CSS.
+
 ## Future Improvements
 - Add keyboard support.
 - Implement scientific functions like logarithms and trigonometry.
 - Enhance UI with animations and themes.
+
+## View Statistics
+![GitHub Views](https://komarev.com/ghpvc/?username=mihaiapostol14&repo=Calculator-V2&color=blueviolet)
+![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=blue&label=clones&query=count&url=https://github.com/mihaiapostol14/Calculator-V2/clone-activity)
 
 ## Clone Repository
 ```bash
